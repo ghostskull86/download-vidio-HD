@@ -23,8 +23,8 @@ ffmpeg (pastikan ffmpeg.exe ada di PATH)
 ⚙️ Cara Pakai:
 
 # 1. Clone repository
-git clone https://github.com/username/youtube-hd-downloader.git
-cd youtube-hd-downloader
+https://github.com/ghostskull86/download-vidio-HD.git
+cd download-vidio-HD
 
 # 2. (Opsional) Aktifkan virtual environment
 python -m venv venv
